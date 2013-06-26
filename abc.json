@@ -1,12 +1,12 @@
 {
     "name": "qrcode",
     "version": "1.0",
-    "desc": "请修改组件描述",
+    "desc": "生成二维码",
     "cover": "",
     "author": {
         "name": "拔赤",
         "email": "bachi@taobao.com",
-        "page": "请修改作者个人首页"
+        "page": "http://jayli.github.io"
     },
     "type": "kissy-pie",
     "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
