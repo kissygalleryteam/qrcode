@@ -1,4 +1,5 @@
-qrcode
-======
+## qrcode
 
-淘宝二维码KISSY GALLERY控件
+* 版本：1.0
+
+
