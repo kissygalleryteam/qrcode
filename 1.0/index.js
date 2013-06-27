@@ -4,6 +4,7 @@
  * @module qrcode
  **/
 KISSY.add(function (S, Node,Base) {
+
 var QRCode;
 
 (function () {
