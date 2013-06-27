@@ -10,6 +10,7 @@ gallery/qrcode/1.0/index
  * @module qrcode
  **/
 KISSY.add('gallery/qrcode/1.0/index',function (S, Node,Base) {
+
 var QRCode;
 
 (function () {
